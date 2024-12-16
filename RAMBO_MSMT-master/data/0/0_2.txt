@@ -1,0 +1,1 @@
+bzip2 -d ERR369019.ctx.bz2

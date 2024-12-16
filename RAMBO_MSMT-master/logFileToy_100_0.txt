@@ -1,0 +1,6 @@
+data/0/inflated/CJ.out : 1647409
+data/0/inflated/EC.out : 5531492
+data/0/inflated/LM.out : 2919747
+data/0/inflated/SE.out : 4812964
+data/0/inflated/VP.out : 5035845
+insertion time (sec) of 100 files: 21.1395

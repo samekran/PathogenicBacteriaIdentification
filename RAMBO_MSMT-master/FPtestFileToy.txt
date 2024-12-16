@@ -1,0 +1,2 @@
+fp rate is: 0.3555query time wall clock is :0.081194, cpu is :0.081185 milisec
+
